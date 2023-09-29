@@ -55,5 +55,4 @@ Respuesta.
 
 8. Flujo de trabajo (navegador, peticion, servidor y respuesta):
 
-![] (file:///C:/Users/pablo_qifge24/OneDrive/Im%C3%A1genes/Screenshots/Captura%20de%20pantalla%202023-09-29%20155137.png)
-""
+![] (https://fp.josedomingo.org/iaw2122/u01/img/ds_process_static.png)
