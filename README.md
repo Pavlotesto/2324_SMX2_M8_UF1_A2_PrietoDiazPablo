@@ -66,6 +66,7 @@
 7. ¿Qué es un CSS?
 
     <font color="red"> Respuesta </font>
+: El CCS o control de código de fuente, es un programa que sirve para detectar cambios en el código de fuente de trabajos o páginas web, que incluye un historial de versiones de código de fuente para así poder volver a anteriores versiones y una función para hacer un seguimiento del progreso que va tomando el código de fuente un ejemplo de CCS sería [Subversion](https://subversion.apache.org/ "Subversion")
 
 8. Flujo de trabajo (navegador, peticion, servidor y respuesta):
 
