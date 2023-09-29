@@ -19,7 +19,7 @@
 2. ¿Qué es un sitio web?
 
     <font color="red"> Respuesta </font>
-    : Un sitio web es un conjunto de paginas web enlazadas que estan almacenadas en un sitio web que son accesibles atraves de direcciones web especificas conocidas como URL (Uniform)
+    : Un sitio web es un conjunto de paginas web enlazadas que estan almacenadas en un sitio web que son accesibles atraves de direcciones web especificas conocidas como URL (Uniform Resource Locator). Por lo general los sitios web suelen contener paginas web relacionadas entre si proporcionando informacion relacionada en cada  una.) 
 
 3. ¿Qué es una aplicación web?
 
