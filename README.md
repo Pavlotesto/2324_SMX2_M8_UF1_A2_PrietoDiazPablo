@@ -2,32 +2,34 @@
 
 ## Evaluación inicial
 
-1. ¿Qué es una magina web?
+1. ¿Qué es una página web?
 
     <font color="red"> Respuesta </font> 
-    : Una pagina web, es un documento digital publicado en Internet, normalmente se usa para medios informativos como por ejemplo [Wikipedia](https://www.wikipedia.org/ "Wikipedia") que se usa para buscar informacion sobre casi cualquier tema ya que es una pagina web con muchisima información. A un a pagina web se puede acceder mediante un navegador como por ejemplo Chrome o Microsoft Edge. La mayoria de paginas web son informativas, pero tambien existen otros tipos de pásginas web como por ejepmlo: 
+    : Una página web, es un documento digital publicado en Internet, normalmente se usa para medios informativos como por ejemplo [Wikipedia](https://www.wikipedia.org/ "Wikipedia") que se usa para buscar informacion sobre casi cualquier tema ya que es una página web con muchisima información. A un a página web se puede acceder mediante un navegador como por ejemplo Chrome o Microsoft Edge. La mayoría de páginas web son informativas, pero tambien existen otros tipos de pásginas web como por ejepmlo: 
 
-    * Paginas web de comercio electrónico: Estos se usan normalmente con el fin de comprar o vender productos por Internet como por ejemplo [Amazon](https://www.amazon.es/ "Amazon").
+    * Páginas web de comercio electrónico: Estos se usan normalmente con el fin de comprar o vender productos por Internet como por ejemplo [Amazon](https://www.amazon.es/ "Amazon").
 
-    * Redes sociales: Las redes sociales suelen ser aplicaciones pero la mayoria tienen una version que es una magina web como por ejemplo [Instagram](https://www.instagram.com/ "Instagram").
+    * Redes sociales: Las redes sociales suelen ser aplicaciones pero la mayoría tienen una versión que es una página web como por ejemplo [Instagram](https://www.instagram.com/ "Instagram").
 
-    * Blogs: Los blogs paginas web en las que distintos usuarios discuten sobre un tema de manera publica para que el resto de usuarios puedan ver distintas opiniones como por ejemplo [Blogger](https://www.blogger.com/about/?hl=es "Blogger").
+    * Blogs: Los blogs páginas web en las que distintos usuarios discuten sobre un tema de manera pública para que el resto de usuarios puedan ver distintas opiniones, como por ejemplo [Blogger](https://www.blogger.com/about/?hl=es "Blogger").
 
-    * Entretenimiento: Los sitios web dedicados al entretenimiento suelen tener juegos o actividades ludicas para pasar el rato como por ejempmlo: [Friv](https://www.friv.com/ "Friv").
+    * Entretenimiento: Los sitios web dedicados al entretenimiento suelen tener juegos o actividades lúdicas para pasar el rato como por ejemplo: [Friv](https://www.friv.com/ "Friv").
 
 
 2. ¿Qué es un sitio web?
 
     <font color="red"> Respuesta </font>
-    : Un sitio web es un conjunto de paginas web enlazadas que estan almacenadas en un sitio web que son accesibles atraves de direcciones web especificas conocidas como URL (Uniform Resource Locator). Por lo general los sitios web suelen contener paginas web relacionadas entre si proporcionando informacion relacionada en cada  una.) 
+    : Un sitio web es un conjunto de páginas web enlazadas que están almacenadas en un sitio web que son accesibles a través de direcciones web especificas conocidas como URL (Uniform Resource Locator). Por lo general, los sitios web suelen contener páginas web relacionadas entre sí proporcionando información relacionada en cada una.
 
 3. ¿Qué es una aplicación web?
 
     <font color="red"> Respuesta </font>
+    : Una aplicación web es un programa informático que se ejecuta en un navegador web y nos proporciona funcionalidades y servicios a través de Internet a diferencia de un programa o una aplicación móvil, esta no requiere de ninguna instalación y son accesibles desde cualquier dispositivo siempre y cuando tengas conexión a Internet.
 
 4. ¿Qué es una herramienta ofimática?
 
     <font color="red"> Respuesta </font>
+    : Una herramienta ofimática, también conocida como software de oficina o suite ofimática, es un conjunto de programas y aplicaciones diseñados para realizar tareas relacionadas con la creación, edición, organización y gestión de documentos y datos en un entorno de oficina o trabajo. Como ejemplo podemos usar las aplicaciones ofimáticas del paquete de office, Power point, Word Excel...
 
 5. [Herramientas de Google](https://www.google.com/intl/es-419/chrome/browser-tools/ "Herramientas de Google")
 
@@ -43,6 +45,7 @@
 6. ¿Qué es HTML?
 
     <font color="red"> Respuesta </font>
+    : HTML (HyperText Markup Language) es un lenguaje de programación que se usa normalmente para crear páginas web. Fue desarrollado en 1990 por [Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee "Tim Berners-Lee") y actualmente es el lenguaje de programación más usado y es el primero que suelen aprender los programadores.
 
 ```
 
