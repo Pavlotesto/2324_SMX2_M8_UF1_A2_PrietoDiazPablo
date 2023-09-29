@@ -55,5 +55,5 @@ Respuesta.
 
 8. Flujo de trabajo (navegador, peticion, servidor y respuesta):
 
-![U+200E] (https://github.com/Pavlotesto/SMX2_M8_UF1_A2_PrietoDiazPablo/blob/main/Captura%20de%20pantalla%202023-09-29%20155137.png "imagen)
+![U+200E](C:\Repositorios Github SMX2\SMX2_M8_UF1_A2_PrietoDiazPablo\Captura de pantalla 2023-09-29 155137-1.png "imagen)
 
